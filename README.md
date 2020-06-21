@@ -1,3 +1,2 @@
-# Emotion-Recognition
-Facial Emotion Detection . This program can recognize your current mood !
-
+# CAT_DOG_CLASSIFIER
+THIS CODE CAN DEFFRENCIATE BETWEEN A CAT AND A DOG USING COCEPT OF #CNN
